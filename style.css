@@ -7,10 +7,13 @@
   flex: 20%;
   background-color: lightgray;
   background: ("images/LogoNQ.jpg") center/100% 100%;
+  aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%;
   background-color: darkgray;
+  color:white;
+  display: flex;
 }
 .content{
   flex: 70%;
