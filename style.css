@@ -9,15 +9,27 @@
   background: ("images/LogoNQ.jpg") center/100% 100%;
   aspect-ratio: 6/1;
 }
-.menu a: hover{
+.menu{
   flex: 5%;
   background-color: darkgray;
   color:white;
   display: flex;
 }
+.menu a{
+  padding: 15px;
+}
+.menu a: hover{
+  flex: 95%;
+  background-color: lightgray;
+  color:black;
+  display: flex;
+}
 .content{
   flex: 70%;
   background-color: black;
+}
+.contnets iframe{
+  
 }
 .footer{
   flex: 5%;
