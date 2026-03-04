@@ -9,7 +9,7 @@
   background: ("images/LogoNQ.jpg") center/100% 100%;
   aspect-ratio: 6/1;
 }
-.menu{
+.menu a: hover{
   flex: 5%;
   background-color: darkgray;
   color:white;
