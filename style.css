@@ -10,7 +10,7 @@
   aspect-ratio: 6/1;
 }
 .menu{
-  flex: 5%;
+  flex: 50%;
   background-color: darkgray;
   color:white;
   display: flex;
@@ -28,7 +28,7 @@
   flex: 70%;
   background-color: white;
 }
-.contnets iframe{
+.contents iframe{
   flex:1;
   border:none;
   width:100%;
@@ -38,8 +38,7 @@
   flex: 5%;
   background-color: pink;
 }
-h1 {
-  color: red;}
+h1 {color: red; text-align: center;}
 .tieude {
   color: tomato;
   font-weight: bold;
